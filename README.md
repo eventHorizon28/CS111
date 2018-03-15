@@ -1,2 +1,2 @@
-# CS111-Rutgers
+# CS111
 Life lesson: Always comment your code!
